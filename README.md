@@ -48,6 +48,6 @@ if __name__ == "__main__":
 
 para produzir as figuras, use o history armazenado e plot com base no que foi salvo.
 
-link vídeo relatório: ...
+link vídeo relatório: [video youtube](https://youtu.be/D2gJYLaf3UA?si=-4_9zwSFsTNxR8RB)
 
-link_pdf_relatório: ...
+link_pdf_relatório: está no responsório.
